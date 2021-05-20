@@ -35,7 +35,7 @@ hr{
   border-width: 8px;
     width: 5%;
     border-style:  dotted none none;
-    color: #eaf6f6;
+    color: #a9f1df;
 }
 
 p{
@@ -60,6 +60,7 @@ a:hover{
 
 .middleContainer{
   margin: 100px 0;
+  background-color: #e4efe7;
 }
 
 .bottomContainer{
@@ -158,6 +159,4 @@ a:hover{
    text-decoration: none;
 }
 
-#pro{
-  text-decoration: underline;
-}
+
